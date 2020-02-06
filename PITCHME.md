@@ -1,6 +1,6 @@
 # Dremio Crash Course
 
-![LOGO](https://www.dremio.com/img/dremio-website.png)
+![LOGO](https://swiftscale.co/wp-content/uploads/2019/08/Dremiolarge.png)
 
 +++
 
