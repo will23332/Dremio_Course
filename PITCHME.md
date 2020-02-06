@@ -1,14 +1,14 @@
-# Elasticsearch Crash Course
+# Dremio Crash Course
 
-![LOGO](https://cdn.freebiesupply.com/logos/large/2x/elasticsearch-logo-png-transparent.png)
+![LOGO](https://www.dremio.com/img/dremio-website.png)
 
 +++
 
-A cura di Guglielmo Piacentini e Alfredo Serafini
+A cura di Guglielmo Piacentini
 
 ---
 
-## Che cos'è Elasticsearch?
+## Che cos'è Dremio?
 
 Un motore di ricerca e analisi full-text, open-source.
 
